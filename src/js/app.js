@@ -1,10 +1,10 @@
 import Character from './Character';
-import Bowerman from '../../Bowerman';
-import Magician from '../../Magician';
-import Undead from '../../Undead';
-import Zombie from '../../Zombie';
-import Daemon from '../../Daemon';
-import Swordsman from '../../Swordsman';
+import Bowerman from './Bowerman';
+import Magician from './Magician';
+import Undead from './Undead';
+import Zombie from './Zombie';
+import Daemon from './Daemon';
+import Swordsman from './Swordsman';
 
 const bowman = new Bowerman('Toni', 'Bowman');
 const swordsman = new Swordsman('Vasily', 'Swordsman');
